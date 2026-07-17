@@ -1,20 +1,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paruchuri+Rajesh!;" />
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend & Backend developer from India</h3>
 
 <div align="center">
-   🔭 I’m currently working on Team Task Manager
+   🔭 I’m currently working on Excel Analytics Platform
 
 🌱 I’m currently learning JDBC ,Spring , Spring Boot
 
- 👯 I’m looking to collaborate on Blogging Platform Web Application
+👯 I’m looking to collaborate to Build Application using Java and LLMs
 
-💬 Ask me about React.js, Java, JavaScript, React.js, Node.js, MongoDB, and GSAP animations
+💬 Ask me about React.js, Java, JavaScript, React.js, Html , Css , JSP and Servlets
 
 👨‍💻 All of my projects are available at [here](https://github.com/rajeshparuchuri7)
 
-📄 Know about my experiences [Resume](Rajesh_resume.pdf)
+📄 Know about my experiences [Resume](Rajesh_Paruchuri.pdf)
 
  🤝 I’m looking for help with scalable full-stack applications and exploring advanced cloud deployment strategies.
  
@@ -50,8 +50,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,sass,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,sass,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,mysql" /><br>
 </div>
 
 <br/>
